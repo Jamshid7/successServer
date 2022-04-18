@@ -1,0 +1,19 @@
+info:
+  contact: {}
+  description: API to send message
+  title: Telegram Server v1
+paths:
+  /send:
+    get:
+      description: API to send simple message
+      responses:
+        "200":
+          description: ""
+        "422":
+          description: ""
+        "500":
+          description: ""
+      summary: Send message to channel
+schemes:
+- http
+swagger: "2.0"

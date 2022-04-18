@@ -1,0 +1,12 @@
+{
+    "schemes": [
+        "http"
+    ],
+    "swagger": "2.0",
+    "info": {
+        "description": "API to send message",
+        "title": "Telegram Server v1",
+        "contact": {}
+    },
+    "paths": {}
+}

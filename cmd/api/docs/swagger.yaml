@@ -1,0 +1,8 @@
+info:
+  contact: {}
+  description: API to send message
+  title: Telegram Server v1
+paths: {}
+schemes:
+- http
+swagger: "2.0"
